@@ -1,0 +1,15 @@
+/* write a Rule for h1 tags to set the color to green  */
+h1{
+    color:green;
+  }
+  
+  /* write a Rule for h2tags to set the color to orange  */
+  h2{
+    color:orange;
+  }
+  
+  /* write a Rule for h3 tags to set the color to blue  */
+  h3{
+    color:blue;
+  }
+  
