@@ -1,0 +1,29 @@
+/* Write a rule for the body tag that changes the background-color property to gray. */
+body{
+    background-color:gray;
+  }
+  
+  
+  /* Write a rule for h1 tags that changes the color property to white. */
+  h1{
+    color: white;
+  }
+  
+  
+  /* Write a rule for the falco class that changes the color property to darkblue. */
+  .falcon{
+    color: darkblue;
+  }
+  
+  
+  /* Write a rule for the kong class that changes the color property to brown. */
+  .kong{
+    color: brown;
+  }
+  
+  
+  /* Write a rule for the pika class that changes the color property to yellow. */
+  pika{
+    color: yellow;
+  }
+  
