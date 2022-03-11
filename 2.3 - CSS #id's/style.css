@@ -1,0 +1,52 @@
+/* Below are guidelines for how the webpage should look.  Write appropriate CSS rules to achieve the following.  Remember, it's good practice to write rules in "heaviest to lightest" order. */
+/* 
+  -The background color should be grey.
+  -The lists of moves should be the same color as the characters team.
+  -The class of blueTeam have the property font-family set to fantasy
+  -The class of redTeam have the property font-family set to monospace
+  -Each characters name should be a specific color:
+    >Cpt. Falcon - darkblue
+    >Donkey Kong - brown
+    >Pikachu - yellow
+    >Mario - darkred
+    >Link - aqua
+    >Yoshi -greenyellow
+*/
+/* Begin writing your rules below this line. */
+
+body{
+    background-color: gray;
+  }
+  .blueTeam{
+    color: blue;
+    font-family: fantasy;
+  }
+  .redTeam{
+    color: red;
+    font-family: monospace;
+  }
+  #falcon{
+    color: darkblue;
+  }
+  
+  #kong{
+    color:brown;
+  }
+  
+  #pika{
+    color:yellow;
+  }
+  #mario{
+    color: darkred;
+  }
+  #link{
+    color: aqua;
+  }
+  #yoshi{
+    color: greenyellow;
+  }
+  
+  
+  
+  
+  
