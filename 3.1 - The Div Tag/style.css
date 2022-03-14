@@ -1,0 +1,30 @@
+img {
+    max-width: 150px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.iconImg {
+    max-width: 500px;
+}
+
+body {
+    background-color: white;
+}
+
+#grey{
+    background-color: grey;
+}
+
+#blueTeam{
+    background-color: blue;
+    color:white
+}
+
+#redTeam{
+    background-color: red;
+}
+
+#falcon, #donkeykong, #pikachu, #mario, #link, #yoshi{
+    margin: 10px;
+}
