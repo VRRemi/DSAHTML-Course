@@ -1,0 +1,56 @@
+ERROR REPORT - BoxModel_DEBUG
+==============================
+
+Below you will write your debugging report by answering the following questions about the 5 errors you found.
+
+-----------------------------------------------------------------------
+
+ERROR 1
+=======
+
+1. What line did you find the error?
+Line 31
+
+2.What was the error and how did you fix it?
+Image type was webp while it was png
+
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+
+Line 8
+
+2.What was the error and how did you fix it?
+Stylesheet type wasn't specified type="text/css"
+
+ERROR 3
+=======
+
+1. What line did you find the error?
+
+8
+2.What was the error and how did you fix it?
+File name was "style" not "styles"
+
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+
+42
+
+2.What was the error and how did you fix it?
+class name was "profilepic" and it should be "profilePic"
+
+ERROR 5
+=======
+
+1. What line did you find the error?
+00
+
+
+2.What was the error and how did you fix it?
+Images path should start with "./" not "/"
