@@ -1,0 +1,57 @@
+/* id styles */
+#mainBanner{
+    background-color: gray;
+  }
+  
+  #mainBanner img{
+    margin: 50px;
+  }
+  
+  /* class styles */
+  
+  .redTeam{
+    background-color: red;
+  }
+  
+  .blueTeam{
+    background-color: blue;
+  }
+  
+  .characterCell{
+    display: inline-block;
+    width: 250px;
+    height: 300px;
+  
+    padding:20px 0px 50px 50px;
+    border:10px solid black;
+    margin:80px;
+  }
+  
+  .redCell{
+    background-color: pink;
+  }
+  
+  .blueCell{
+    background-color: lightblue;
+  }
+  
+  .profilePic{
+    width: 200px;
+  
+  }
+  
+  h1{
+    width: 200px;
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
